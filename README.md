@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Vaishnavi Shingare
 
 ### Aspiring Software Engineer | Java Developer | Computer Science Student
-
-I am a Computer Science student passionate about building efficient software solutions and continuously improving my programming skills. I enjoy solving problems, learning new technologies, and developing projects that strengthen my understanding of software development.
-
 ---
 
 ## 🚀 About Me
